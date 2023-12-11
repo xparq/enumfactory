@@ -22,6 +22,7 @@ Changes to the original:
 
 TODO:
 
+- Use __VA_OPT__ now to eliminate those ugly trailing commas.
 - Test/add enum class support.
 - Test/add enum-in-a-class support.
   -> Can't do either implicitly. Would require shifting to C++;
